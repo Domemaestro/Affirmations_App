@@ -1,5 +1,5 @@
 # Affirmations_App
-This is an Android app that displays a list of affirmations along with an image using RecyclerView. The user can swipe through the list of affirmations and view the corresponding image.
+This is an Android app that displays a list of affirmations along with an image using RecyclerView. The user can scroll through the list of affirmations and view the corresponding image.
 
 **Features:**
 
